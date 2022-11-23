@@ -1,5 +1,5 @@
 <script setup>
-import YesNo from './HelloWorld.vue';
+import HelloWorld from './HelloWorld.vue';
 </script>
 
 <template>
